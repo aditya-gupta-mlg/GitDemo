@@ -22,7 +22,7 @@ git config --global user.email "adityaguptamlg@gmail.com"
 
 git config --global color.ui auto
 
-Mandatory Commands:
+Mandatory Commands in folder cmd:
 >> git init
 >> git remote add origin https://github.com/aditya-gupta-mlg/GitDemo.git
 
@@ -32,3 +32,9 @@ Mandatory Commands:
 
 #Push Requests
 git status
+
+get add .
+>>push all the file
+git status
+git commit -m "commit Message"
+git push --set-upstream origin main
