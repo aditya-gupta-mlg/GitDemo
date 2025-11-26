@@ -1,0 +1,86 @@
+Three Pillars
+>> HTML (Hyper Text MarkUp Language)
+>> CSS(Cascading Style Sheet)
+>>Js(Java Script)
+
+MEAN, MERN, Java Full Stack
+
+
+Web Dev
+>> Building/Developers Team
+>> Testing Team (Manual Testers/Automated Testers)
+>> Hosting Team(DevOps Team)
+>> Maintenance Team/Support Team
+
+SDLC (Software Development Life Cycle):
+>>WaterFall Model
+>>Agile Model
+>>Spiral Model
+>>Interactive Model
+>>V Shaped Model
+>>RAD(Rapid Application Development )Model
+
+URL(Uniform Resource Locator)
+  https://www.instagram.com/
+  https://education.rohanAcademy.edu/Fullstack
+
+  https: Protocol
+  rohanAcademy: Server/Domain Name
+  education: Sub-Domain
+  .edu: TLD(Top Level Domain)
+  Fullstack: Path/Location
+
+  Protocol:
+  >> Set of rules/instructions
+  http: Hyper Text Transfer protocol
+  https: Hyper Text Transfer protocol Secure
+  tcp: Transmission Control protocol
+  udp: User datagram Protocol
+  stmp: Simple mail Transfer Protocol
+  Ftp: File Transfer Protocol 
+  ip: Internet Protocol(ipV4 & ipV6)
+
+
+
+>>SSL (Secure Socket Layer) Certification
+Server/Domain Name:
+ >>Unique Identifier
+  >>Eg: Google,Infosys, Amazon
+
+Sub-Domain Name:
+  >>gMeet
+  >>gDrive
+  >>Gmail
+  >>gPhotos
+  >>gChrome
+
+  >>Amazon Shopping
+  >>Amazon AWS
+
+
+TLD(Top Level Domain):
+ >>Amazon.in (india)
+ >>Amazon.com (commercial)
+ >>Amazon.edu (education)
+ >>Amazon.org 
+ >>Amazon.uk
+
+ Offline Editors:
+ >>NotePad
+ >>Notepad++
+ >>Sublime
+ >>Open Brackets
+ >>VS Code
+
+ Online Editors:
+ >> CodeSpace
+ >> CodeSandBox
+
+
+
+
+
+
+  
+  
+
