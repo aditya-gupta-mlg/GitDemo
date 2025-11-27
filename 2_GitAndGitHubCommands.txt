@@ -24,6 +24,8 @@ git config --global color.ui auto
 
 Mandatory Commands in folder cmd:
 >> git init
+
+#Make a remote Connection for our Application
 >> git remote add origin https://github.com/aditya-gupta-mlg/GitDemo.git
 
 
@@ -38,3 +40,6 @@ get add .
 git status
 git commit -m "commit Message"
 git push --set-upstream origin main
+
+#create a seprate branch
+>> git checkout -b "branchName"
